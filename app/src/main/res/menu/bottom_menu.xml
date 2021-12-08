@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/coin_roll"
+    android:id="@+id/coin_roll"
+    android:icon="@drawable/coin_icon"
+    />
+    <item android:title="@string/show_a_car"
+        android:id="@+id/car"
+        android:icon="@drawable/about_icon"
+        />
+
+    <item android:title="@string/about"
+        android:id="@+id/About"
+        android:icon="@drawable/about_icon"
+        />
+
+</menu>

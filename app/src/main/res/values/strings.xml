@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExamAttistation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="developers">Developers:</string>
+    <string name="coin_roll">Coin Roll</string>
+    <string name="about">About</string>
+    <string name="toss_up">Toss UP</string>
+    <string name="open_google">Open Google</string>
+    <string name="show_a_car">Show a car</string>
+    <string name="the_best_car">The Best car</string>
+</resources>
